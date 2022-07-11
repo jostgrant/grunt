@@ -1,0 +1,6 @@
+*.db
+*.exe
+
+config.json
+FINAL_EXECUTABLE_NAME
+grunt
